@@ -1,0 +1,21 @@
+{
+  "name": "intserver",
+  "version": "1.0.0",
+  "description": "interview sockets server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "secret"
+  ],
+  "author": "Sergey Sherby",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^3.2.0"
+  }
+}
